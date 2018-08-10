@@ -16,16 +16,16 @@ Results
 ---
 NodeMCU에서 보낸 데이터를 데이터베이스에 저장
 
-![input](/image/xor_input_table.PNG)
+![input](/image/xor_input_table.png)
 
 
 xor 연산 결과 데이터베이스에 저장
 
-![result](/image/xor_result_table.PNG)
+![result](/image/xor_result_table.png)
 
 Serial monitor 결과
 
-![serial](/image/Serial_monitor.PNG)
+![serial](/image/Serial_monitor.png)
 
 
 Reference Implementations
