@@ -25,7 +25,7 @@ xor 연산 결과 데이터베이스에 저장
 
 Serial monitor 결과
 
-![serial](/image/Serial_monitor.PNG width="100" heigt = "100")
+![serial](/image/Serial_monitor.PNG width="100" height = "100")
 
 
 Reference Implementations
