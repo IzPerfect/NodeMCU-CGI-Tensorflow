@@ -25,7 +25,7 @@ xor 연산 결과 데이터베이스에 저장
 
 Serial monitor 결과
 
-![serial](/image/Serial_monitor.PNG)
+![serial](/image/serial_monitor.PNG)
 
 
 Reference Implementations
